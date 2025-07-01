@@ -19,7 +19,8 @@ p {
 .google-container {
   position: relative;
   width: 80%;
-  max-width: 1280px;
+  max-width: 960px;
+  margin: 0 auto;
   aspect-ratio: 4/3;
   overflow: hidden;
 }
